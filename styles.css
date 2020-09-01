@@ -1,0 +1,57 @@
+body{
+  background-color: #F5F5F5;
+}
+
+.Summary {
+	margin-bottom: 60px;
+	margin: auto;
+	padding: 15px;
+	color: black;
+	background-color: white;
+}
+
+.visualization {
+	margin-bottom: 60px;
+	margin: auto;
+	padding: 15px;
+	color: black;
+	background-color: white;
+}
+
+.plot_header {
+	padding: 15px; 
+	padding-left: 5px;
+	color: #40E0D0;
+	font-size: auto;
+	font-weight: bold;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.comparisons_title {
+	margin-top: 20px;
+	color: #40E0D0;
+	text-align: center;
+	font-size: auto;
+	font-weight: bold;
+	font-family: Georgia, Times, "Times New Roman", serif;	
+}
+
+#landing_graph {
+    float: left;
+    width: 70%;
+    height: 75%;
+}
+
+#vis_image {
+	float: left;
+	width: 115%;
+	height: 100%;
+}
+
+.table{
+	text-align: center;
+}
+
+.tablehead {
+	word-wrap: normal;
+}
